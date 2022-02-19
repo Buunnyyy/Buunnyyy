@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bunny
 - 👀 I’m interested in pursuing as Data Analyst
-- 🌱 I’m currently learning Masters in Data Science and ANalyst
+- 🌱 I graduated as Masters in Data Science and Analyst
 - 📫 +447438745032 or bhavikpatil2@gmail.com
 
 <!---
